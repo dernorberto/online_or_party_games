@@ -34,12 +34,12 @@ Comparison
 | **Iso shooter** | https://squadd.io/  |     | TODO |     |     |
 | **MMO Strategy**    | https://www.tribalwars.co.uk/ |     |     |     |     |
 | **Snake Multiplayer**  | https://agar.io/ |     | TODO |     |     |
-| **snake but AWESOME** | https://powerline.io/    | N | :star::star::star::star::star:    | competitive | **top-down survival** | https://moomoo.io/    |     |     |     |     |
+| **snake but AWESOME** | https://powerline.io/    | N | :star::star::star::star::star:    | competitive |     |
+| **top-down survival** | https://moomoo.io/    |     |     |     |     |
 | **Simple soccer** | https://www.pongis.com/ |     | TODO |     |     |
 | **Physics-based soccer with teams** | https://nitroclash.io/ |     |     |     |     |
 | **soccer multiplayer** | www.haxball.com |     |     |     |     |
 | **soccer with mouse**    | http://socceracy.com    |     | TODO |     |     |
-|     |
 | **Pong in 3D** | https://www.cubeslam.com |     | :star::star::star::star:    |     |     |
 |     |     |     |     |     |     |
 | ***MULTIPLAYER APP*** |     |     |     |     |     |
