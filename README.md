@@ -34,8 +34,13 @@ Comparison
 | **Iso shooter** | https://squadd.io/  |     | TODO |     |     |
 | **MMO Strategy**    | https://www.tribalwars.co.uk/ |     |     |     |     |
 | **Snake Multiplayer**  | https://agar.io/ |     | TODO |     |     |
-| **top-down survival** | https://moomoo.io/    |     |     |     |     |
+| **snake but AWESOME** | https://powerline.io/    | N | :star::star::star::star::star:    | competitive | **top-down survival** | https://moomoo.io/    |     |     |     |     |
 | **Simple soccer** | https://www.pongis.com/ |     | TODO |     |     |
+| **Physics-based soccer with teams** | https://nitroclash.io/ |     |     |     |     |
+| **soccer multiplayer** | www.haxball.com |     |     |     |     |
+| **soccer with mouse**    | http://socceracy.com    |     | TODO |     |     |
+|     |
+| **Pong in 3D** | https://www.cubeslam.com |     | :star::star::star::star:    |     |     |
 |     |     |     |     |     |     |
 | ***MULTIPLAYER APP*** |     |     |     |     |     |
 | **Real-Time-Strategy** | [https://www.openra.net/](https://www.openra.net/) | ?   |     |     |     |
@@ -53,7 +58,7 @@ Comparison
 | **Zombie invasion - Run** | [http://zombie.ninja.org.za/](http://zombie.ninja.org.za/) |     |     |     |     |
 | **The house** - point & click | [https://the-house.arturkot.pl/](https://the-house.arturkot.pl/) |     |     |     |     |
 | **3D block puzzles** | [http://pennyshen.github.io/block\_party/](http://pennyshen.github.io/block_party/)<br><br>*   [https://github.com/pennyshen/block\_party](https://github.com/pennyshen/block_party) |     | :star::star::star::star: | simple |     |
-| **Snake | http://slither.io/**    | N |  :star::star::star:   | open, type name and go  |     |
+| **Snake** | http://slither.io/    | N |  :star::star::star:   | open, type name and go  |     |
 | **Text-based Victorian alternate history rpg** | https://www.fallenlondon.com/login  | Y |     |     |     |
 | **Keep everyone in your kingdom happy**  | https://graebor.itch.io/sort-the-court    | ? |     |     |     |
 | **A PICO-8 platformer about climbing a mountain** | https://mattmakesgames.itch.io/celesteclassic | N |   |     |     |
