@@ -1,3 +1,45 @@
+new stuff:
+to sort:
+https://zombsroyale.io/
+http://zombs.io
+http://www.playcharades.net/
+
+
+## Multiplayer
+
+* http://www.lostinn.com/kallen/, Online Roleplaying Game browser based
+* http://dotsgame.co/, Multiplayer,
+* https://colonist.io/, Settlers of Catan
+* https://lichess.org/, Chess
+* https://phoenix-battleship.herokuapp.com/, Battleship, https://github.com/bigardone/phoenix-battleship
+
+## Single Player
+
+* https://quantumgame.io/, A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath!, :question:
+* https://maxwellito.github.io/breaklock/, A hybrid of Mastermind and the Android pattern lock, :star::star::star::star::star:
+* https://www.wealthwords.com/,
+* https://hextris.io/, hex tetris, Single-player
+* https://kenrick95.github.io/c4/, Connect-4
+* https://devshop.secretgeek.net/, The kanban game about running a software development shop
+* https://thesoftwaremanager.com/, Do your best to manage the projects, teams and survive in 60 days!
+
+self-hosting
+
+* https://github.com/Triang3l/WebQuake, HTML5/WebGL source port of Quake
+* list of games: https://selfhosted.libhunt.com/categories/1692-games
+* https://github.com/huytd/agar.io-clone, cells game, alternative to agar.io
+
+## Programming games
+
+* http://play.elevatorsaga.com/, The elevator programming game, Javascript
+
+
+# lists
+* https://github.com/search?q=browser+game+multiplayer
+* https://alternativeto.net/category/games/all/?platform=self-hosted&p=1
+
+
+
 Collection
 ----------
 
