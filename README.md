@@ -10,18 +10,24 @@ Any contributions are welcome.
 
 * **Type/Name/Description**, Link, Rating, :heavy_plus_sign:PROs, :heavy_minus_sign:CONs,
 
+### VERY EASY TO START PARTY GAMES
+
+* **Cards against...**, [https://allbad.cards/](https://allbad.cards/) ([github](https://github.com/jakelauer/allbadcards)), :star::star::star::star::star:, :heavy_plus_sign:Party-ready, very simple, :heavy_minus_sign:very crude
+* **Guess the drawing**, https://skribbl.io/, :star::star::star::star::star:, :heavy_plus_sign:very easy to start, Party-ready
+* **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
+* **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready, :heavy_minus_sign:just a word generator
+
+
+
 ### MULTIPLAYER WEB
 
 * **Tetris**, [https://jstris.jezevec10.com/](https://jstris.jezevec10.com/), :star::star::star::star::star:, :heavy_plus_sign: no need to create accounts
-* **Cards against...**, [https://allbad.cards/](https://allbad.cards/) ([github](https://github.com/jakelauer/allbadcards)), :star::star::star::star::star:, :heavy_plus_sign:Party-ready, very simple, :heavy_minus_sign:very crude
-* **Cards against...**, [https://picturesagainsthumanity.com](https://picturesagainsthumanity.com/static/index.html), TODO
+* **Azala's Picture Cards, Cards against...**, [https://azala.info](https://picturesagainsthumanity.com/static/index.html), TODO
 * **Poker**, [http://www.bluffave.com/](http://www.bluffave.com/), TODO
 * **Trivia Generator**, [https://www.randomtriviagenerator.com/](https://www.randomtriviagenerator.com/), , :star::star::star:, :heavy_minus_sign:not able to share questions
 * **Quizzes**, [https://social.quizwitz.com](https://social.quizwitz.com),  :star::star::star:, :heavy_plus_sign: only organizer needs account, :heavy_minus_sign: quizzes done by people,
 * **Words**, [http://www.wordner.com/](http://www.wordner.com/), TODO, :heavy_minus_sign:requires signup
 * **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign:super cool if you're into puzzles
-* **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
-* **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready
 * **Pictionary**, https://skribbl.io/,  TODO
 * **Charades generator**, [http://www.getcharadesideas.com/](http://www.getcharadesideas.com/), MEH!
 * **Settlers of Catan**, [http://www.catanuniverse.com/en](http://www.catanuniverse.com/en), TODO 
@@ -46,13 +52,15 @@ Any contributions are welcome.
 * **physics-based Teams push-soccer**, www.haxball.com, TODO 
 * **Teams grab-and-shoot soccer** , http://socceracy.com , TODO
 * **Pong 1-1 3D**, https://www.cubeslam.com, :star::star::star::star:
-* **dots game**, http://dotsgame.co/, TODO
+* **dots and boxes**, http://dotsgame.co/, :star::star::star::star:, :heavy_plus_sign:tricky, 1-4 players
 * **Chess**, * https://lichess.org/, TODO
 * **Battleship**, https://phoenix-battleship.herokuapp.com/ ((github)[https://github.com/bigardone/phoenix-battleship]), TODO
 * **Zombie survival Battle Royale** https://zombsroyale.io/, TODO, :heavy_minus_sign:Ads
 * **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
+* **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 
 ### MULTIPLAYER APP
+
 * **Real-Time-Strategy**, [https://www.openra.net/](https://www.openra.net/), TODO  
 * **A retro multiplayer shooter**, [https://www.teeworlds.com/](https://www.teeworlds.com/), TODO
 * **3D deathmatch shooter**, [http://sauerbraten.org/](http://sauerbraten.org/), TODO
@@ -61,6 +69,7 @@ Any contributions are welcome.
 * **Command & Conquer - Red Alert**, https://cncnet.org/red-alert, TODO
 
 ### MORE LISTS
+
 * **open source HTML5 games**, [https://superdevresources.com/open-source-html5-games/](https://superdevresources.com/open-source-html5-games/) , :star::star::star::star::star:
 * **Games on github**, [https://github.com/leereilly/games#user-content-browser-based](https://github.com/leereilly/games#user-content-browser-based)
 * **github search for Multiplayer**, https://github.com/search?q=browser+game+multiplayer
@@ -85,7 +94,6 @@ Any contributions are welcome.
 * **A puzzle game with photons, superposition and quantum measurement**)**, https://quantumgame.io/
 * **Hexagon Tetris**, (hextris.io)[https://hextris.io/], TODO
 * **Connect-4**, https://kenrick95.github.io/c4/, :star::star::star::star::star:, :heavy_plus_sign:it just works
-
 
 ### OTHER PROJECTS/PRODUCTS
 
