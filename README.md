@@ -1,65 +1,31 @@
-new stuff:
-to sort:
-https://zombsroyale.io/
-http://zombs.io
-http://www.playcharades.net/
+## Introduction
 
+After playing the Psych! Outwit your friends and knowing Cards against Humanity, I was wondering what other easy-to-start games to play with friends and family are out there.
 
-## Multiplayer
+I try to update and review the games as I can, my aim is to have a handful of games that are usable by remote family and friends of any age, which is easier said than done. Ideally these would be browser-based games so that they work on any device.
 
-* http://www.lostinn.com/kallen/, Online Roleplaying Game browser based
-* http://dotsgame.co/, Multiplayer,
-* https://colonist.io/, Settlers of Catan
-* https://lichess.org/, Chess
-* https://phoenix-battleship.herokuapp.com/, Battleship, https://github.com/bigardone/phoenix-battleship
+Any contributions are welcome.
 
-## Single Player
+## The list
 
-* https://quantumgame.io/, A puzzle game with photons, superposition and quantum measurement, right in your browser. With true quantum mechanics underneath!, :question:
-* https://maxwellito.github.io/breaklock/, A hybrid of Mastermind and the Android pattern lock, :star::star::star::star::star:
-* https://www.wealthwords.com/,
-* https://hextris.io/, hex tetris, Single-player
-* https://kenrick95.github.io/c4/, Connect-4
-* https://devshop.secretgeek.net/, The kanban game about running a software development shop
-* https://thesoftwaremanager.com/, Do your best to manage the projects, teams and survive in 60 days!
-
-self-hosting
-
-* https://github.com/Triang3l/WebQuake, HTML5/WebGL source port of Quake
-* list of games: https://selfhosted.libhunt.com/categories/1692-games
-* https://github.com/huytd/agar.io-clone, cells game, alternative to agar.io
-
-## Programming games
-
-* http://play.elevatorsaga.com/, The elevator programming game, Javascript
-
-
-# lists
-* https://github.com/search?q=browser+game+multiplayer
-* https://alternativeto.net/category/games/all/?platform=self-hosted&p=1
-
-
-
-Collection
-----------
-
-* Type, Link, requires account, Rating, :heavy_plus_sign:PROs, :heavy_minus_sign:CONs,
+* **Type/Name/Description**, Link, Rating, :heavy_plus_sign:PROs, :heavy_minus_sign:CONs,
 
 ### MULTIPLAYER WEB
 
 * **Tetris**, [https://jstris.jezevec10.com/](https://jstris.jezevec10.com/), :star::star::star::star::star:, :heavy_plus_sign: no need to create accounts
-* **Cards against...**, [https://allbad.cards/](https://allbad.cards/) ([github](https://github.com/jakelauer/allbadcards)), :star::star::star::star::star:, :heavy_plus_sign:very simple, :heavy_minus_sign:very crude
+* **Cards against...**, [https://allbad.cards/](https://allbad.cards/) ([github](https://github.com/jakelauer/allbadcards)), :star::star::star::star::star:, :heavy_plus_sign:Party-ready, very simple, :heavy_minus_sign:very crude
 * **Cards against...**, [https://picturesagainsthumanity.com](https://picturesagainsthumanity.com/static/index.html), TODO
 * **Poker**, [http://www.bluffave.com/](http://www.bluffave.com/), TODO
 * **Trivia Generator**, [https://www.randomtriviagenerator.com/](https://www.randomtriviagenerator.com/), , :star::star::star:, :heavy_minus_sign:not able to share questions
 * **Quizzes**, [https://social.quizwitz.com](https://social.quizwitz.com),  :star::star::star:, :heavy_plus_sign: only organizer needs account, :heavy_minus_sign: quizzes done by people,
-* **Words**, [http://www.wordner.com/](http://www.wordner.com/), TODO , :heavy_minus_sign:requires signup
+* **Words**, [http://www.wordner.com/](http://www.wordner.com/), TODO, :heavy_minus_sign:requires signup
 * **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign:super cool if you're into puzzles
-* **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough
-* **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:
+* **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
+* **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready
 * **Pictionary**, https://skribbl.io/,  TODO
 * **Charades generator**, [http://www.getcharadesideas.com/](http://www.getcharadesideas.com/), MEH!
-* **Catan**, [http://www.catanuniverse.com/en](http://www.catanuniverse.com/en), TODO 
+* **Settlers of Catan**, [http://www.catanuniverse.com/en](http://www.catanuniverse.com/en), TODO 
+* **Settlers of Catan clone**, https://colonist.io/, TODO
 * **Geography**, [https://posio.abrenaut.com/](https://posio.abrenaut.com/) ([github.com](https://github.com/abrenaut/posio)), TODO
 * **Internet Scrabble Club**, [https://www.isc.ro/](https://www.isc.ro/), TODO
 * **Psych-alike**, [https://github.com/MuditJ/Trivia-Game](https://github.com/MuditJ/Trivia-Game), MEH...
@@ -72,14 +38,19 @@ Collection
 * **Hack'n Slash**   , https://wilds.io/#, TODO 
 * **Iso shooter**, https://squadd.io/ ,  TODO
 * **MMO Strategy**   , https://www.tribalwars.co.uk/,  TODO 
-* **Snake Multiplayer** , https://agar.io/, TODO
-* **snake but AWESOME**, https://powerline.io/   , :star::star::star::star::star:   , :heavy_plus_sign:competitive
-* **top-down survival**, https://moomoo.io/  , TODO 
+* **Cells Multiplayer** , https://agar.io/, TODO
+* **Snake but AWESOME**, https://powerline.io/   , :star::star::star::star::star:   , :heavy_plus_sign:competitive
+* **Top-down survival**, https://moomoo.io/  , TODO 
 * **physics-based 1-1 push-soccer**, https://www.pongis.com/, TODO 
 * **physics-based Teams push-Soccer**, https://nitroclash.io/, TODO
 * **physics-based Teams push-soccer**, www.haxball.com, TODO 
 * **Teams grab-and-shoot soccer** , http://socceracy.com , TODO
 * **Pong 1-1 3D**, https://www.cubeslam.com, :star::star::star::star:
+* **dots game**, http://dotsgame.co/, TODO
+* **Chess**, * https://lichess.org/, TODO
+* **Battleship**, https://phoenix-battleship.herokuapp.com/ ((github)[https://github.com/bigardone/phoenix-battleship]), TODO
+* **Zombie survival Battle Royale** https://zombsroyale.io/, TODO, :heavy_minus_sign:Ads
+* **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
 
 ### MULTIPLAYER APP
 * **Real-Time-Strategy**, [https://www.openra.net/](https://www.openra.net/), TODO  
@@ -89,9 +60,12 @@ Collection
 * **Open Roller Coaster Tycoon 2**, [https://openrct2.io/](https://openrct2.io/), TODO
 * **Command & Conquer - Red Alert**, https://cncnet.org/red-alert, TODO
 
-### LISTS OF GAMES
+### MORE LISTS
 * **open source HTML5 games**, [https://superdevresources.com/open-source-html5-games/](https://superdevresources.com/open-source-html5-games/) , :star::star::star::star::star:
 * **Games on github**, [https://github.com/leereilly/games#user-content-browser-based](https://github.com/leereilly/games#user-content-browser-based)
+* **github search for Multiplayer**, https://github.com/search?q=browser+game+multiplayer
+* **Self-hosted on alternativeto.net**, https://alternativeto.net/category/games/all/?platform=self-hosted&p=1
+* **libhunt list of self-hosted games**, https://selfhosted.libhunt.com/categories/1692-games
 
 ### SINGLE PLAYER
 
@@ -103,6 +77,15 @@ Collection
 * **Keep everyone in your kingdom happy** , https://graebor.itch.io/sort-the-court, TODO
 * **A PICO-8 platformer about climbing a mountain**, https://mattmakesgames.itch.io/celesteclassic, TODO
 * **The Settlers**, https://www.thesettlersonline.com/en, TODO
+* **Mastermind meets Android Lock**, https://maxwellito.github.io/breaklock/, :star::star::star::star::star:
+* **Dev Shop**, https://devshop.secretgeek.net/ (The kanban game about running a software development shop), :star::star::star:, :heavy_minus_sign: lots of clicking
+* **The Software Manager**, https://thesoftwaremanager.com/, TODO
+* **Learn Javascript with an Elevator**, http://play.elevatorsaga.com/, TODO
+* **Crosswords**, https://www.wealthwords.com/, TODO, :heavy_minus_sign:commercial
+* **A puzzle game with photons, superposition and quantum measurement**)**, https://quantumgame.io/
+* **Hexagon Tetris**, (hextris.io)[https://hextris.io/], TODO
+* **Connect-4**, https://kenrick95.github.io/c4/, :star::star::star::star::star:, :heavy_plus_sign:it just works
+
 
 ### OTHER PROJECTS/PRODUCTS
 
@@ -115,23 +98,12 @@ Collection
 * **awesome-selfhosted**, [https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#games](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/README.md#games)
 * **Games on github**, [https://github.com/leereilly/games](https://github.com/leereilly/games)
 * **Game dev incl browserquest**, [https://rastergames.itch.io/](https://rastergames.itch.io/) ([rastergames.itch.io/browserquest](https://rastergames.itch.io/browserquest))
-  
+* **HTML5/WebGL source port of Quake**, https://github.com/Triang3l/WebQuake
+* **cells game, alternative to agar.io** https://github.com/huytd/agar.io-clone
 
-Communicating online
---------------------
-
-* [https://discord.com/](https://discord.com/)
-
-Collections by other people
----------------------------
+### Collections by other people
 
 * [https://github.com/MatMoore/online-board-games-and-party-games](https://github.com/MatMoore/online-board-games-and-party-games), :heavy_plus_sign:very recent
-
-### Legend
-
-* :heavy_plus_sign: or :white_check_mark: = OK
-* :heavy_minus_sign: or :red_circle: or :x: = NOT OK
-* :question: = NOT SURE 
 
 ### Excluded
 
@@ -139,3 +111,9 @@ Collections by other people
 * **Deck-building land-expansion game**, [https://dominion.games/](https://dominion.games/), TODO, :heavy_minus_sign:requires signup & RTFM
 * **Cards against...**, [http://playingcards.io/game/cards-against-humanity](http://playingcards.io/game/cards-against-humanity) (free: [http://playingcards.io/game/remote-insensitivity](http://playingcards.io/game/remote-insensitivity), HOWTO: [http://playingcards.io/docs/remote-insensitivity](http://playingcards.io/docs/remote-insensitivity)), :star::star::star:,:heavy_minus_sign:like a real game, no guides, lots of manual work
 * Cards against..., [https://md.rereadgames.com/#new](https://md.rereadgames.com/#new) ([github](https://github.com/Lattyware/massivedecks)),  :star::star::star::star:, :heavy_plus_sign:guided game, :heavy_minus_sign:lots of clicking around
+
+## Legend
+
+* :heavy_plus_sign: or :white_check_mark: = OK
+* :heavy_minus_sign: or :red_circle: or :x: = NOT OK
+* :question: = NOT SURE 
