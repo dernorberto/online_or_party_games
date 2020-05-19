@@ -18,7 +18,6 @@ Any contributions are welcome.
 * **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready, :heavy_minus_sign:just a word generator
 
 
-
 ### MULTIPLAYER WEB
 
 * **Tetris**, [https://jstris.jezevec10.com/](https://jstris.jezevec10.com/), :star::star::star::star::star:, :heavy_plus_sign: no need to create accounts
@@ -35,7 +34,6 @@ Any contributions are welcome.
 * **Geography**, [https://posio.abrenaut.com/](https://posio.abrenaut.com/) ([github.com](https://github.com/abrenaut/posio)), TODO
 * **Internet Scrabble Club**, [https://www.isc.ro/](https://www.isc.ro/), TODO
 * **Psych-alike**, [https://github.com/MuditJ/Trivia-Game](https://github.com/MuditJ/Trivia-Game), MEH...
-* **Psych-alike #2**, [https://psych-client.now.sh/](https://psych-client.now.sh/), :poop:, :heavy_minus_sign: did not work
 * **Minesweeper**, [https://minesweeper-party.herokuapp.com/](https://minesweeper-party.herokuapp.com/), :star::star::star:, :heavy_plus_sign:simple & no frills
 * **BrowserQuest**, [https://browserquest.herokuapp.com/](https://browserquest.herokuapp.com/) ([github](https://github.com/mozilla/BrowserQuest)) , TODO
 * **Free Civilization Web**, [https://github.com/freeciv/freeciv-web](https://github.com/freeciv/freeciv-web), TODO
@@ -54,10 +52,11 @@ Any contributions are welcome.
 * **Pong 1-1 3D**, https://www.cubeslam.com, :star::star::star::star:
 * **dots and boxes**, http://dotsgame.co/, :star::star::star::star:, :heavy_plus_sign:tricky, 1-4 players
 * **Chess**, * https://lichess.org/, TODO
-* **Battleship**, https://phoenix-battleship.herokuapp.com/ ((github)[https://github.com/bigardone/phoenix-battleship]), TODO
+* **Battleship**, https://phoenix-battleship.herokuapp.com/ ((github)[https://github.com/bigardone/phoenix-battleship]), :star::star::star:, :heavy_minus_sign:Does not display resulting boards at the end:(
 * **Zombie survival Battle Royale** https://zombsroyale.io/, TODO, :heavy_minus_sign:Ads
 * **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
 * **Another guess the drawing**, https://gartic.io/, star::star::star::star:
+* **Programming lang typing speed game**, https://swiftcode.herokuapp.com/
 
 ### MULTIPLAYER APP
 
@@ -75,6 +74,8 @@ Any contributions are welcome.
 * **github search for Multiplayer**, https://github.com/search?q=browser+game+multiplayer
 * **Self-hosted on alternativeto.net**, https://alternativeto.net/category/games/all/?platform=self-hosted&p=1
 * **libhunt list of self-hosted games**, https://selfhosted.libhunt.com/categories/1692-games
+* **51 Best Open Source HTML5 and JavaScript Games 2020**, https://www.edopedia.com/blog/open-source-html5-and-javascript-games/
+* **30 Amazing Games Made Only With HTML5**, https://tutorialzine.com/2015/02/30-amazing-games-made-only-with-html5
 
 ### SINGLE PLAYER
 
@@ -94,6 +95,8 @@ Any contributions are welcome.
 * **A puzzle game with photons, superposition and quantum measurement**)**, https://quantumgame.io/
 * **Hexagon Tetris**, (hextris.io)[https://hextris.io/], TODO
 * **Connect-4**, https://kenrick95.github.io/c4/, :star::star::star::star::star:, :heavy_plus_sign:it just works
+* **ZigZag like endless arcade game**, https://eugenyn.itch.io/amazing-track, :star::star::star:, :heavy_plus_sign:very simple arcade
+* **Space shooter kbd+mouse**, http://js13kgames.com/games/radius-raid/index.html, TODO
 
 ### OTHER PROJECTS/PRODUCTS
 
@@ -119,6 +122,7 @@ Any contributions are welcome.
 * **Deck-building land-expansion game**, [https://dominion.games/](https://dominion.games/), TODO, :heavy_minus_sign:requires signup & RTFM
 * **Cards against...**, [http://playingcards.io/game/cards-against-humanity](http://playingcards.io/game/cards-against-humanity) (free: [http://playingcards.io/game/remote-insensitivity](http://playingcards.io/game/remote-insensitivity), HOWTO: [http://playingcards.io/docs/remote-insensitivity](http://playingcards.io/docs/remote-insensitivity)), :star::star::star:,:heavy_minus_sign:like a real game, no guides, lots of manual work
 * Cards against..., [https://md.rereadgames.com/#new](https://md.rereadgames.com/#new) ([github](https://github.com/Lattyware/massivedecks)),  :star::star::star::star:, :heavy_plus_sign:guided game, :heavy_minus_sign:lots of clicking around
+* **Psych-alike #2**, [https://psych-client.now.sh/](https://psych-client.now.sh/), :poop:, :heavy_minus_sign: does not work well, deck is based on "and the truth comes out"
 
 ## Legend
 
