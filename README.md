@@ -58,6 +58,7 @@ Any contributions are welcome.
 * **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
 * **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 * **Programming lang typing speed game**, https://swiftcode.herokuapp.com/
+* **Classic Minecraft**, https://classic.minecraft.net, , :heavy_plus_sign:You can invite up to 9 friends
 
 ### MULTIPLAYER APP
 
