@@ -13,6 +13,7 @@ Any contributions are welcome.
 ### VERY EASY TO START PARTY GAMES
 
 * **Cards against...**, [https://allbad.cards/](https://allbad.cards/) ([github](https://github.com/jakelauer/allbadcards)), :star::star::star::star::star:, :heavy_plus_sign:Party-ready, very simple, :heavy_minus_sign:very crude
+* **Many Decks - Cards against...**, [https://md.rereadgames.com](https://md.rereadgames.com), :star::star::star:,:heavy_plus_sign: Good game flow
 * **Guess the drawing**, https://skribbl.io/, :star::star::star::star::star:, :heavy_plus_sign:very easy to start, Party-ready
 * **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
 * **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready, :heavy_minus_sign:just a word generator
@@ -133,8 +134,6 @@ Any contributions are welcome.
 
 * **Town of Salem** (like Mafia or Werewolf), https://www.blankmediagames.com/   , :poop:, :heavy_minus_sign:Flash
 * **Deck-building land-expansion game**, [https://dominion.games/](https://dominion.games/), TODO, :heavy_minus_sign:requires signup & RTFM
-* **Cards against...**, [http://playingcards.io/game/cards-against-humanity](http://playingcards.io/game/cards-against-humanity) (free: [http://playingcards.io/game/remote-insensitivity](http://playingcards.io/game/remote-insensitivity), HOWTO: [http://playingcards.io/docs/remote-insensitivity](http://playingcards.io/docs/remote-insensitivity)), :star::star::star:,:heavy_minus_sign:like a real game, no guides, lots of manual work
-* Cards against..., [https://md.rereadgames.com/#new](https://md.rereadgames.com/#new) ([github](https://github.com/Lattyware/massivedecks)),  :star::star::star::star:, :heavy_plus_sign:guided game, :heavy_minus_sign:lots of clicking around
 * **Psych-alike #2**, [https://psych-client.now.sh/](https://psych-client.now.sh/), :poop:, :heavy_minus_sign: does not work well, deck is based on "and the truth comes out"
 
 ## Legend
