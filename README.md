@@ -22,11 +22,11 @@ Any contributions are welcome.
 
 ### MULTIPLAYER WEB
 
+* **Poker**, [https://www.pokernow.club](https://www.pokernow.club), :star::star::star::star:, :heavy_plus_sign: very simple, no need to register
 * **Drawize**, [https://www.drawize.com/](https://www.drawize.com/), TODO
 * **Codenames**, [https://horsepaste.com/](https://horsepaste.com/), TODO
 * **Tetris**, [https://jstris.jezevec10.com/](https://jstris.jezevec10.com/), :star::star::star::star::star:, :heavy_plus_sign: no need to create accounts
 * **Azala's Picture Cards, Cards against...**, [https://azala.info](https://picturesagainsthumanity.com/static/index.html), TODO
-* **Poker**, [http://www.bluffave.com/](http://www.bluffave.com/), TODO
 * **Trivia Generator**, [https://www.randomtriviagenerator.com/](https://www.randomtriviagenerator.com/), , :star::star::star:, :heavy_minus_sign:not able to share questions
 * **Quizzes**, [https://social.quizwitz.com](https://social.quizwitz.com),  :star::star::star:, :heavy_plus_sign: only organizer needs account, :heavy_minus_sign: quizzes done by people,
 * **Words**, [http://www.wordner.com/](http://www.wordner.com/), TODO, :heavy_minus_sign:requires signup
