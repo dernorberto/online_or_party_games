@@ -17,11 +17,11 @@ Any contributions are welcome.
 * **Guess the drawing**, https://skribbl.io/, :star::star::star::star::star:, :heavy_plus_sign:very easy to start, Party-ready
 * **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
 * **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready, :heavy_minus_sign:just a word generator
-* **Anagrams battle**, [Anagram Thief!](http://anagrams.jonmarkgo.com/), :star::star::star::star:, :heavy_plus_sign:Easy to use, Puts your english vocabulary to the test 
+
 
 
 ### MULTIPLAYER WEB
-
+* **Anagrams battle**, [Anagram Thief!](https://github.com/iceboundflame/anagramthief), :star::star::star::star:, :heavy_plus_sign: Easy to use, Puts your english vocabulary to the test;
 * **Poker**, [https://www.pokernow.club](https://www.pokernow.club), :star::star::star::star:, :heavy_plus_sign: very simple, no need to register
 * **Drawize**, [https://www.drawize.com/](https://www.drawize.com/), TODO
 * **Codenames**, [https://horsepaste.com/](https://horsepaste.com/), TODO
