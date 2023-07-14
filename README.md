@@ -16,21 +16,24 @@ Any contributions are welcome.
 * **Many Decks - Cards against...**, [https://md.rereadgames.com](https://md.rereadgames.com), :star::star::star:,:heavy_plus_sign: Good game flow
 * **Guess the drawing**, https://skribbl.io/, :star::star::star::star::star:, :heavy_plus_sign:very easy to start, Party-ready
 * **Categories**, [https://scattergoriesonline.net/](https://scattergoriesonline.net/), :star::star::star::star:,  :heavy_plus_sign:easy enough,Party-ready, :heavy_minus_sign:Extended english vocabulary required!
+* **Truth or Dare**, https://psycatgames.com/app/truth-or-dare/, :star::star::star::star:, :heavy_plus_sign:Easy interface
 * **Pictionary Word generator**, [https://randomwordgenerator.com/pictionary.php](https://randomwordgenerator.com/pictionary.php),  :star::star::star::star::star:, :heavy_plus_sign:Party-ready, :heavy_minus_sign:just a word generator
-
-
+* **Truth or Drink**, https://truthordrink.app/, :star::star::star::star::star:, :heavy_plus_sign:Lots of categories
+* **Never Have I Ever**, https://psycatgames.com/app/never-have-i-ever/, :star::star::star:, :heavy_plus_sign:It's a drinking game, :heavy_minus_sign:Just a question generator
+* **Would You Rather...**, https://wouldyou.app/, :star::star::star:, :heavy_plus_sign:Party ready
 
 ### MULTIPLAYER WEB
+
 * **Garthic Phone**, [Garthic Phone](https://garticphone.com/), :star::star::star::star:, :heavy_plus_sign: Drawing things with/against your friends based on things you/they write;
 * **Anagrams battle**, [Anagram Thief!](https://github.com/iceboundflame/anagramthief), :star::star::star::star:, :heavy_plus_sign: Easy to use, Puts your english vocabulary to the test;
 * **Poker**, [https://www.pokernow.club](https://www.pokernow.club), :star::star::star::star:, :heavy_plus_sign: very simple, no need to register
 * **Drawize**, [https://www.drawize.com/](https://www.drawize.com/), TODO
-* **Codenames**, [https://horsepaste.com/](https://horsepaste.com/), TODO
+* **Codenames**, [https://codenames.game/](https://codenames.game/), TODO
+* **Horsepaste**, [https://horsepaste.com/](https://horsepaste.com/), TODO
 * **Tetris**, [https://jstris.jezevec10.com/](https://jstris.jezevec10.com/), :star::star::star::star::star:, :heavy_plus_sign: no need to create accounts
 * **Azala's Picture Cards, Cards against...**, [https://azala.info](https://picturesagainsthumanity.com/static/index.html), TODO
 * **Trivia Generator**, [https://www.randomtriviagenerator.com/](https://www.randomtriviagenerator.com/), , :star::star::star:, :heavy_minus_sign:not able to share questions
 * **Quizzes**, [https://social.quizwitz.com](https://social.quizwitz.com),  :star::star::star:, :heavy_plus_sign: only organizer needs account, :heavy_minus_sign: quizzes done by people,
-* **Words**, [http://www.wordner.com/](http://www.wordner.com/), TODO, :heavy_minus_sign:requires signup
 * **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign:super cool if you're into puzzles
 * **Pictionary**, https://skribbl.io/,  TODO
 * **Charades generator**, [http://www.getcharadesideas.com/](http://www.getcharadesideas.com/), MEH!
@@ -39,8 +42,6 @@ Any contributions are welcome.
 * **Geography**, [https://posio.abrenaut.com/](https://posio.abrenaut.com/) ([github.com](https://github.com/abrenaut/posio)), TODO
 * **Internet Scrabble Club**, [https://www.isc.ro/](https://www.isc.ro/), TODO
 * **Psych-alike**, [https://github.com/MuditJ/Trivia-Game](https://github.com/MuditJ/Trivia-Game), MEH...
-* **Minesweeper**, [https://minesweeper-party.herokuapp.com/](https://minesweeper-party.herokuapp.com/), :star::star::star:, :heavy_plus_sign:simple & no frills
-* **BrowserQuest**, [https://browserquest.herokuapp.com/](https://browserquest.herokuapp.com/) ([github](https://github.com/mozilla/BrowserQuest)) , TODO
 * **Free Civilization Web**, [https://github.com/freeciv/freeciv-web](https://github.com/freeciv/freeciv-web), TODO
 * **First-person voxel team shooter**   , http://warbrokers.io/signin.php   ,  TODO
 * **Dungeon battles**, http://iogames.space/treasurearena-com , TODO
@@ -49,20 +50,18 @@ Any contributions are welcome.
 * **MMO Strategy**   , https://www.tribalwars.co.uk/,  TODO 
 * **Cells Multiplayer** , https://agar.io/, TODO
 * **Snake but AWESOME**, https://powerline.io/   , :star::star::star::star::star:   , :heavy_plus_sign:competitive
-* **Top-down survival**, https://moomoo.io/  , TODO 
 * **physics-based 1-1 push-soccer**, https://www.pongis.com/, TODO 
 * **physics-based Teams push-Soccer**, https://nitroclash.io/, TODO
 * **physics-based Teams push-soccer**, www.haxball.com, TODO 
-* **Teams grab-and-shoot soccer** , http://socceracy.com , TODO
+* **Teams grab-and-shoot soccer** , http://socceracy.com, TODO
 * **Pong 1-1 3D**, https://www.cubeslam.com, :star::star::star::star:
 * **dots and boxes**, http://dotsgame.co/, :star::star::star::star:, :heavy_plus_sign:tricky, 1-4 players
 * **Chess**, * https://lichess.org/, TODO
-* **Battleship**, https://phoenix-battleship.herokuapp.com/ ((github)[https://github.com/bigardone/phoenix-battleship]), :star::star::star:, :heavy_minus_sign:Does not display resulting boards at the end:(
 * **Zombie survival Battle Royale** https://zombsroyale.io/, TODO, :heavy_minus_sign:Ads
 * **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
 * **Another guess the drawing**, https://gartic.io/, star::star::star::star:
-* **Programming lang typing speed game**, https://swiftcode.herokuapp.com/
 * **Classic Minecraft**, https://classic.minecraft.net, , :heavy_plus_sign:You can invite up to 9 friends
+* **Taboo**, https://playtaboo.com/, TODO
 
 ### MULTIPLAYER APP
 
