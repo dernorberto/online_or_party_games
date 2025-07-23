@@ -24,7 +24,10 @@ Any contributions are welcome.
 
 ### MULTIPLAYER WEB
 
-* **Garthic Phone**, [Garthic Phone](https://garticphone.com/), :star::star::star::star:, :heavy_plus_sign: Drawing things with/against your friends based on things you/they write;
+* **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign: Complete a puzzle with your friends, it's relaxing and satisfying
+* **WorldGuessr**, [WorldGuessr](https://www.worldguessr.com/), TODO, Guess where in the world you've been dropped on Google maps;
+* **Gartic Phone**, [Garthic Phone](https://garticphone.com/), :star::star::star::star:, :heavy_plus_sign: Drawing things with/against your friends based on things you/they write;
+* **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 * **Anagrams battle**, [Anagram Thief!](https://github.com/iceboundflame/anagramthief), :star::star::star::star:, :heavy_plus_sign: Easy to use, Puts your english vocabulary to the test;
 * **Poker**, [https://www.pokernow.club](https://www.pokernow.club), :star::star::star::star:, :heavy_plus_sign: very simple, no need to register
 * **Drawize**, [https://www.drawize.com/](https://www.drawize.com/), TODO
@@ -34,7 +37,7 @@ Any contributions are welcome.
 * **Azala's Picture Cards, Cards against...**, [https://azala.info](https://picturesagainsthumanity.com/static/index.html), TODO
 * **Trivia Generator**, [https://www.randomtriviagenerator.com/](https://www.randomtriviagenerator.com/), , :star::star::star:, :heavy_minus_sign:not able to share questions
 * **Quizzes**, [https://social.quizwitz.com](https://social.quizwitz.com),  :star::star::star:, :heavy_plus_sign: only organizer needs account, :heavy_minus_sign: quizzes done by people,
-* **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign:super cool if you're into puzzles
+* **Sketchful.io**, [sketchful.io](sketchful.io), TODO
 * **Pictionary**, https://skribbl.io/,  TODO
 * **Charades generator**, [http://www.getcharadesideas.com/](http://www.getcharadesideas.com/), MEH!
 * **Settlers of Catan**, [http://www.catanuniverse.com/en](http://www.catanuniverse.com/en), TODO 
@@ -59,7 +62,6 @@ Any contributions are welcome.
 * **Chess**, * https://lichess.org/, TODO
 * **Zombie survival Battle Royale** https://zombsroyale.io/, TODO, :heavy_minus_sign:Ads
 * **Zombie survival**, http://zombs.io, TODO, :heavy_minus_sign:Not sure how to invite friends
-* **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 * **Classic Minecraft**, https://classic.minecraft.net, , :heavy_plus_sign:You can invite up to 9 friends
 * **Taboo**, https://playtaboo.com/, TODO
 
