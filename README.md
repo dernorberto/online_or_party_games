@@ -26,6 +26,7 @@ Any contributions are welcome.
 
 * **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign: Complete a puzzle with your friends, it's relaxing and satisfying
 * **WorldGuessr**, [WorldGuessr](https://www.worldguessr.com/), TODO, Guess where in the world you've been dropped on Google maps;
+* **The Fight Club**, [fightclub.dog](https://fightclub.dog/), TODO, Pick a side on any topic, argue your case against a real opponent, crowd + AI judge decide the winner;
 * **Gartic Phone**, [Garthic Phone](https://garticphone.com/), :star::star::star::star:, :heavy_plus_sign: Drawing things with/against your friends based on things you/they write;
 * **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 * **Anagrams battle**, [Anagram Thief!](https://github.com/iceboundflame/anagramthief), :star::star::star::star:, :heavy_plus_sign: Easy to use, Puts your english vocabulary to the test;
