@@ -27,6 +27,8 @@ Any contributions are welcome.
 
 * **Jigsaw Puzzles**, [https://jigsawpuzzles.io/](https://jigsawpuzzles.io/)  , :star::star::star::star:, :heavy_plus_sign: Complete a puzzle with your friends, it's relaxing and satisfying
 * **WorldGuessr**, [WorldGuessr](https://www.worldguessr.com/), TODO, Guess where in the world you've been dropped on Google maps;
+* **World Chase**, [https://www.worldchase.net](https://www.worldchase.net), :star::star::star::star::star:, :heavy_plus_sign: Weekly competitive geography game — decode cryptic riddles to find real-world locations on a map. Global leaderboard, VS duels & 25 challenges every week. Free to play.
+* **Kids World Chase**, [https://www.kidsworldchase.net](https://www.kidsworldchase.net), :star::star::star::star::star:, :heavy_plus_sign: Weekly geography adventure for kids aged 8-13. Solve riddles, explore locations on Google Street View. Age-appropriate, free to play.
 * **Gartic Phone**, [Garthic Phone](https://garticphone.com/), :star::star::star::star:, :heavy_plus_sign: Drawing things with/against your friends based on things you/they write;
 * **Another guess the drawing**, https://gartic.io/, star::star::star::star:
 * **Anagrams battle**, [Anagram Thief!](https://github.com/iceboundflame/anagramthief), :star::star::star::star:, :heavy_plus_sign: Easy to use, Puts your english vocabulary to the test;
