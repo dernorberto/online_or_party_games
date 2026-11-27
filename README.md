@@ -21,6 +21,7 @@ Any contributions are welcome.
 * **Truth or Drink**, https://truthordrink.app/, :star::star::star::star::star:, :heavy_plus_sign:Lots of categories
 * **Never Have I Ever**, https://psycatgames.com/app/never-have-i-ever/, :star::star::star:, :heavy_plus_sign:It's a drinking game, :heavy_minus_sign:Just a question generator
 * **Would You Rather...**, https://wouldyou.app/, :star::star::star:, :heavy_plus_sign:Party ready
+* **Imposter Game**, [https://impostergame.net/](https://impostergame.net/), TODO, :heavy_plus_sign:Browser-based, no download, local or private online rooms
 
 ### MULTIPLAYER WEB
 
